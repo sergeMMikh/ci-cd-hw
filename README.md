@@ -13,10 +13,10 @@
 ### Скриншоты: 
 
 * настройки проекта:
-  * [Build Steps ](https://drive.google.com/file/d/1OEZdP7H8iZYoTJAoXJbM58pUEKujEHSg/view?usp=sharing)
+  * ![Build Steps ](First_task_img_1.png)
 - результаты выполнения сборки:
-  * [Dasboard](https://drive.google.com/file/d/1OPBwzds_44eg2m1VIvPuPzNBmhDNQzHP/view?usp=sharing)
-  * [Nexus repository](https://drive.google.com/file/d/1OYpwaoRuHMblfpf-aaShVHDB4SmSgjbB/view?usp=sharing)
+  * ![Dasboard](First_task_img_2.png)
+  * ![Nexus repository](First_task_img_3.png)
 
 ---
 
