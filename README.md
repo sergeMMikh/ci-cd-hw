@@ -37,7 +37,23 @@
 1. Создайте новый проект pipeline.
 2. Перепишите сборку из задания 1 на declarative в виде кода.
 
-В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+### Скриншоты: 
+
+* настройки проекта:
+  * Build Steps
+    
+  <img src="Seconf_task_img_1.png" alt="Build Steps" width="500" height="auto">
+- результаты выполнения сборки:
+  * Console output
+    
+  <img src="Seconf_task_img_2.png" alt="Dasboard" width="500" height="auto">
+  
+  * Dasboard
+    
+  <img src="Seconf_task_img_3.png" alt="Dasboard" width="500" height="auto">
+
+  * Nexus repository<br>
+  <img src="Seconf_task_img_4.png" alt="Nexus repository" width="500" height="auto">
 
 ---
 
