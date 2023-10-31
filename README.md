@@ -13,10 +13,16 @@
 ### Скриншоты: 
 
 * настройки проекта:
-  * <img src="First_task_img_1.png" alt="Build Steps" width="500" height="auto">
+  * Build Steps
+    
+  <img src="First_task_img_1.png" alt="Build Steps" width="500" height="auto">
 - результаты выполнения сборки:
-  * <img src="First_task_img_2.png" alt="Dasboard" width="500" height="auto">
-  * <img src="First_task_img_3.png" alt="Nexus repository" width="500" height="auto">
+  * Dasboard
+    
+  <img src="First_task_img_2.png" alt="Dasboard" width="500" height="auto">
+
+  * Nexus repository<br>
+  <img src="First_task_img_3.png" alt="Nexus repository" width="500" height="auto">
 
 ---
 
