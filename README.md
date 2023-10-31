@@ -17,6 +17,10 @@
     
   <img src="First_task_img_1.png" alt="Build Steps" width="500" height="auto">
 - результаты выполнения сборки:
+  * Console output
+    
+  <img src="First_task_img_4.png" alt="Dasboard" width="500" height="auto">
+  
   * Dasboard
     
   <img src="First_task_img_2.png" alt="Dasboard" width="500" height="auto">
