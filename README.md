@@ -66,6 +66,22 @@
 1. Измените pipeline так, чтобы вместо Docker-образа собирался бинарный go-файл. Команду можно скопировать из Dockerfile.
 1. Загрузите файл в репозиторий с помощью jenkins.
 
-В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+### Скриншоты: 
+
+* настройки проекта:
+  * Build Steps
+    
+  <img src="Third_task_img_1.png" alt="Build Steps" width="500" height="auto">
+- результаты выполнения сборки:
+  * Console output
+    
+  <img src="Third_task_img_2.png" alt="Dasboard" width="500" height="auto">
+  
+  * Dasboard
+    
+  <img src="Third_task_img_3.png" alt="Dasboard" width="500" height="auto">
+
+  * Nexus repository<br>
+  <img src="Third_task_img_4.png" alt="Nexus repository" width="500" height="auto">
 
 ---
