@@ -13,10 +13,10 @@
 ### Скриншоты: 
 
 * настройки проекта:
-  * ![Build Steps ](First_task_img_1.png)
+  * ![Build Steps ](First_task_img_1.png =300x200)
 - результаты выполнения сборки:
-  * ![Dasboard](First_task_img_2.png)
-  * ![Nexus repository](First_task_img_3.png)
+  * ![Dasboard](First_task_img_2.png =300x200)
+  * ![Nexus repository](First_task_img_3.png =300x200)
 
 ---
 
